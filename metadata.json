@@ -1,0 +1,6 @@
+{
+  "name": "Contemporary Furniture Showroom",
+  "description": "A premium, modern, conversion-focused showroom for high-end contemporary living room, bedroom, and kitchen furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
